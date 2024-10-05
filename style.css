@@ -1,0 +1,29 @@
+.header{
+    height: 15vh;
+    background-color:  #A68A64;
+    display: flex;
+    justify-content: center;
+}
+body{
+    margin: 0;
+    background-color: #e5e5e5;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 85vh;
+}
+.logo{
+    width: 9%;
+}
+.graficos{
+    background-color: #ffffff;
+    height: 50vh;
+    width: 45vw;
+}
+
+.chart{
+    height: 50vh;
+    width: 45vw;
+}
